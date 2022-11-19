@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filippovisconti
-- 👀 I’m a computer engineering student
-- 🌱 I’m currently learning Web App Development using Spring Boot
+- 👀 I’m a computer engineering student @ETHZurich
+- 🌱 I’m majoring in Secure and Reliable Systems
 - 📫 How to reach me: [email](mailto:filippo@filippovisconti.com)      or         [telegram](https://t.me/filippovisconti)
 
 
