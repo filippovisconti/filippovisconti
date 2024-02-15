@@ -14,6 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=filippovisconti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=filippovisconti&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=filippovisconti&icon=0&color=1)](https://visitcount.itsvg.in)
-<!-- 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=filippovisconti&style=for-the-badge)
